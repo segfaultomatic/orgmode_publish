@@ -1,8 +1,5 @@
 #!/usr/bin/emacs --script
 
-; taking a cue from: https://pank.eu/blog/blog-setup.html
-; writing my own version of publish.el.
-
 (require 'org)
 (require 'ox)
 (require 'ox-publish)
