@@ -1,6 +1,6 @@
-#Orgmode publish
+# Orgmode publish
 
-#About
+# About
 
 Project to generate HTML site from orgmode notes. My goal is to provide a simple means to publish my dev notebook (and possible parts thereof) is a simple one-step process. I want it outside of emacs IDE.
 
@@ -9,6 +9,6 @@ https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.ht
 
 And a bash script that drives emacs in batch mode.
 
-## Next Steps
+# Next Steps
 Make the source and destination directories configurable and modifiable at run time.
 
