@@ -1,0 +1,30 @@
+* Third
+
+This file is not linked from the others.
+
+** DONE table
+
+| name  | value | whatever         |       calc |
+|-------+-------+------------------+------------|
+| alpha | A     | this thing       |          1 |
+| beta  | B     | that thing       |          2 |
+| gamma | C     | Some other thing |          3 |
+|-------+-------+------------------+------------|
+|       |       |                  |          0 |
+#+TBLFM: $4=$1*$2
+
+Somehow can get the tables to do some spreadsheet math, but
+
+1. First ordered item
+   - First unordered
+   - Second unordered
+     + Another item
+     + Yet another
+2. Second ordered list item, C-c C-c to toggle check box
+   - [ ] unchecked box
+   - [X] Checked box
+   - [ ] Another unchecked box
+3. Third ordered list item
+Meep
+
+

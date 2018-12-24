@@ -1,0 +1,2 @@
+This is a random text file included here. It fits in with my usage of orgmode as a hyperlinked journal. Sometimes I take a quick text note somewhere and drop it in notes. I want an offline evernote-style experience (I can grep the notes from command line). This is particularly useful at work where it would be inappropriate to put proprietary material in some personal account on a 3rd party service.
+
